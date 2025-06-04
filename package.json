@@ -55,7 +55,7 @@
     "@babel/register": "^7.4.4",
     "applescript": "^1.0.0",
     "auto-launch": "^5.0.5",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.3",
     "chalk": "^2.4.2",
     "classnames": "^2.2.5",
     "cors": "^2.8.4",
