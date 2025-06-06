@@ -120,7 +120,7 @@
     "tap": "^12.1.1",
     "terser": "^3.14.1",
     "tiny-human-time": "^1.2.0",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^5.2.1"
   },
   "browserslist": [
     ">0.2%",
